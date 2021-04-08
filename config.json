@@ -1,0 +1,9 @@
+{
+  "language": "",
+  "main": "./contracts/Factory.sol",
+  "deploy": "./build/contracts/Factory.json",
+  "compilers": {
+    "cfxtruffle": "0.0.8",
+    "solc": "0.6.12"
+  }
+}
